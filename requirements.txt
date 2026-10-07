@@ -1,0 +1,7 @@
+numpy>=1.22.0,<2.0.0
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
+imgaug>=0.4.0
+opencv-python>=4.5.0,<=4.10.0.84
+tensorflow>=2.15.0
+keras>=3.0.0
